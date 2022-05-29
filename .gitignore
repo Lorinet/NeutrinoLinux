@@ -1,4 +1,4 @@
 buildroot-*
-wpa-supplicant
+wpa_supplicant
 .vscode
 linfinity.linux.img
