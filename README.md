@@ -6,4 +6,6 @@ A Buildroot-based Linux base for NeutrinoOS
 ### i386
 `./build.sh build`
 
-The build system will output a working, bootable disk image (`linfinity.linux.img`).
+The build system will output a working, bootable disk image (linfinity.linux.img).
+## Run using QEMU
+`./build.sh run`
