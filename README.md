@@ -2,7 +2,7 @@
 A Buildroot-based Linux base for NeutrinoOS
 ## Install dependencies and build tools
 `./build.sh downloadTools`
-## Build system
+## Build
 ### i386
 `./build.sh build`
 
